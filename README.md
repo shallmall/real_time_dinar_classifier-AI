@@ -20,9 +20,9 @@ a real-time image classification system that uses a webcam and a Convolutional N
 - Jupyter Notebook
 
 ---
-## 📂 Project Structure
-├── model_training.ipynb # Jupyter Notebook for training and evaluating the model
-├── real_time_detector.py # Python script for live detection using webcam
-├── tunisian_dinar_model.h5 # Trained CNN model
-├── class_indices.json # Label mappings for classification
-└── README.md # Project documentation
+## 📂 Project Structure  
+├── model_training.ipynb # Jupyter Notebook for training and evaluating the model  
+├── real_time_detector.py # Python script for live detection using webcam  
+├── tunisian_dinar_model.h5 # Trained CNN model  
+├── class_indices.json # Label mappings for classification  
+└── README.md # Project documentation  
